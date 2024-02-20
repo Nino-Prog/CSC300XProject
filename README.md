@@ -46,5 +46,5 @@ For inquiries, please contact [Nino](mailto:nombongi2@gmail.com).
 
 ## Live Version
 
-Check out the live version of Vintage Treasures on [GitHub Pages]([https://nino-prog.github.io/CSC300XProject/).
+Check out the live version of Vintage Treasures on [GitHub Pages](https://Nino-prog.github.io/CSC300XProject/).
 
